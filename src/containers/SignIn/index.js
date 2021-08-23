@@ -1,5 +1,5 @@
 import { React, useEffect, useState } from 'react';
-import logo from '../../images/lg.png'
+import logo from '../../assets/images/lg.png'
 import './style.css';
 import { Redirect } from 'react-router-dom';
 import { useDispatch, useSelector } from 'react-redux';
