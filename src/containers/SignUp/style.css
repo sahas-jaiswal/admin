@@ -1,0 +1,18 @@
+.BtnReg{
+    background-color: #1A2226;
+    color:#0DB8DE;
+    border: 1px solid #0DB8DE;
+    text-decoration: none;
+    border-radius: 20px;
+    width: 350px;
+    font-size: larger;
+}
+.BtnReg:hover{
+    background-color: #0DB8DE;
+    color: #1A2226;
+}
+Button:active,
+Button.active{
+    background-color: #0DB8DE;
+    color: #1A2226;
+}

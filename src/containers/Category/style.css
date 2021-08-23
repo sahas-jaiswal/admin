@@ -1,0 +1,64 @@
+select{
+    background-color: #1A2226;
+    border: none;
+    border-bottom: 2px solid #0DB8DE;
+    font-weight: bold;
+    outline: 0;
+    padding-left: 0px;
+    margin-bottom: 20px;
+    color: #ECF0F5;
+}
+.modal-header{
+    padding: 5px 15px;
+    background-color: #333;
+}
+.modal-title{
+    font-size: 18px;
+    color: #fff;
+}
+.modal-footer{
+    padding: 5px 15px;
+}
+
+.actionBtnContainer{
+    display: flex;
+    align-items: center;
+}
+
+.actionBtnContainer > button{
+    border: 0;
+    margin: 0 5px;
+    font-size: 14px;
+}
+
+.alrt{
+    background-color: #1A2226;
+}
+.cbt .label{
+    color:white;
+}
+
+.ListCat{
+    margin-top:50px
+}
+h{
+    color: white;
+    font-size: x-large;
+    justify-content: right;
+    align-items: flex-start;
+}
+ul{
+    margin: 10px;
+    padding: 0;
+    color: #6C6C6C;
+}
+ul li{
+    list-style: none;
+    display:flex;
+    margin: 10px;
+    padding: 0;
+    left: 0;
+}
+ul li p{
+    color: white;
+}

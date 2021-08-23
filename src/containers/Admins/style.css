@@ -1,0 +1,37 @@
+.modal-content {
+   background-color: #1A2226;
+}
+td{
+   color:#6C6C6C;
+}
+.MyCard{
+   background-color: #1A2226;
+   color:#6C6C6C;
+   box-shadow: 6px 6px 6px rgba(117, 117, 117, 0.16), 6px 6px 6px rgba(117, 117, 117, 0.23);
+   margin: 20px;
+}
+.Edit{
+   margin-right:10px;
+   list-style: none;
+}
+.Trash{
+   margin-left:10px;
+   list-style: none;
+}
+.Edit:hover,
+.Trash:hover{
+   color:#0DB8DE;
+}
+
+@media only screen and (max-width: 1240px) {
+  .Edit{
+     margin-right: 3px;
+  }
+  .Trash{
+     margin-left: 3px;
+  }
+  .Edit:hover,
+.Trash:hover{
+   color:#0DB8DE;
+}
+}

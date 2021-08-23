@@ -1,0 +1,6 @@
+.MyNav{
+    background-color: #1A2226;
+    color:white;
+    box-shadow:6px 6px 6px rgba(117, 117, 117, 0.16), 6px 6px 6px rgba(117, 117, 117, 0.23);
+    z-index: 10;
+}
